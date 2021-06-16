@@ -9,6 +9,8 @@
   <description>Razorpay's Plugin for Checkout</description>
   <author>Razorpay</author>
   <keywords>razorpay,payments,payment,gateway,checkout</keywords>
+  <repo>https://github.com/xgbo06/razorpay-cordova.git</repo>
+  <issue>https://github.com/xgbo06/razorpay-cordova</issue>
 
 <!--   <engines>
     <engine name="cordova" version=">=3.4.0"/>
